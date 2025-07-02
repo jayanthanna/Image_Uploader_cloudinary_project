@@ -28,9 +28,9 @@ This is a full-stack image uploader built using **Node.js**, **Express**, **Mong
 
 ## 📦 Project Setup
 
-### 1. Clone the repository
 
 ```bash
+1. Clone the repository
 git clone https://github.com/your-username/cloudinary-image-uploader.git
 cd cloudinary-image-uploader
 
